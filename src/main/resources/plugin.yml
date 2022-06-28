@@ -1,0 +1,16 @@
+name: Backpacks
+version: '${project.version}'
+main: gg.entry.backpacks.Backpacks
+api-version: 1.18
+prefix: [ Z-BACKPACKS ]
+authors: [ zykem ]
+description: Backpacks plugin for Minecraft
+website: entry.gg
+
+commands:
+  buybackpack:
+    description: Buys backpack access
+    aliases: [kupplecak,buythebackpack,buybp]
+  backpack:
+    description: Opens backpack with access
+    aliases: [plecak]

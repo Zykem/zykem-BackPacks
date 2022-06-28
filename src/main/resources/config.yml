@@ -1,0 +1,7 @@
+# zykem-BackPacks
+backpack name: "&6Backpack"
+no_perms_chatmsg: "&cYou do not have permission to the Backpack! You first have to purchase it by using /buybackpack"
+no_perms_title: "&cServerName"
+no_perms_subtitle: "&cNo Permission!"
+bought_backpack: "&aYou have bought access to the Backpack!"
+not_enough_money: "&cYou do not have enough money to buy the Backpack!"
